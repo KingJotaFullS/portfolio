@@ -1,6 +1,11 @@
-Thanks for downloading this template!
+Esse é um portfolio pessoal que fiz com inspiração na carreira estetica da minha mulher,
+aproveitando a atividade da faculdade pra um recurso pessoal, tanto de aprendizagem quanto
+de utilização real pra ela.
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
+Baseado no template iPortfolio da url:https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+e autor BootstrapMade.com .
+
+Template Name: Camistética
+Author: João Carlos
+
 License: https://bootstrapmade.com/license/
